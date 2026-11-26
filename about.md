@@ -3,4 +3,4 @@ layout: layout.njk
 title: About
 ---
 
-this is the {{title}} page
+this is the {{main}} page
