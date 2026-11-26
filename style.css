@@ -2,3 +2,9 @@ body {
     padding: 8vw;
     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
 }
+.row {
+    display: flex;
+}
+.colum {
+    flex: 1;
+}
